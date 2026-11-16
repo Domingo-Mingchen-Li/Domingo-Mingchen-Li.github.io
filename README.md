@@ -1,28 +1,20 @@
-# Mingchen Li — Academic Website
+# Mingchen Li
 
-Source for the academic website at https://domingo-mingchen-li.github.io/
+**Economics · Renmin University of China**
 
-## Contents
+**Academic website:** [domingo-mingchen-li.github.io](https://domingo-mingchen-li.github.io/)
 
-- `index.html` — homepage with research and contact information.
-- `assets/style.css` — responsive site styling.
-- `files/green-paradox-writing-sample.pdf` — paper without technical appendix (31 pages).
-- `files/green-paradox-technical-appendix.pdf` — standalone appendix (18 pages).
+Research interests: economic growth, structural transformation, environmental macroeconomics, and exhaustible resources.
 
-The two PDF URLs are also embedded into the PDFs as cross-document links, so keep these exact file paths when publishing updates. The main paper and appendix are the verified, user-provided Overleaf compilation outputs.
+## Research
 
-## Publish with GitHub Pages
+### The Green Paradox in Structural Change
+*Working paper · October 2026*
 
-Repository **Settings → Pages → Build and deployment → Source: Deploy from a branch → main / (root) → Save**.
+Can industrial policies favoring cleaner sectors reduce the extraction of exhaustible resources? I show that such policies can instead increase near-term extraction, making the transition more resource-intensive, with expectations of structural transformation playing an important role.
 
-## Research description
+[Main paper (PDF)](https://domingo-mingchen-li.github.io/files/green-paradox-writing-sample.pdf) · [Technical appendix (PDF)](https://domingo-mingchen-li.github.io/files/green-paradox-technical-appendix.pdf) · [Replication code](https://github.com/Domingo-Mingchen-Li/Hotelling-in-Structural-Change-Public)
 
-The two paragraphs under the paper are taken directly from the published draft's abstract, without a rewritten research summary.
+## Contact
 
-## CV
-
-A link to a CV can be added when an approved CV PDF is available. No placeholder CV is presented on the public website.
-
-## Update
-
-Update PDFs at their existing paths; edit the Research section of `index.html` to add future papers. Static HTML and CSS require no build dependencies.
+[merlinmingchenli@gmail.com](mailto:merlinmingchenli@gmail.com)
